@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Index module """
+""" Index module Index module Index module """
 from flask import jsonify
 from api.v1.views import app_views
 from models import storage
